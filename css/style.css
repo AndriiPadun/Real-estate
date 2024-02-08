@@ -43,6 +43,10 @@ body {
  color: #333333;
 }
 
+body._lock {
+ overflow: hidden;
+}
+
 /* ================================ */
 .wrapper {
  min-height: 100%;
