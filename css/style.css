@@ -501,6 +501,11 @@ body._lock {
   z-index: 2;
   max-width: none;
  }
+
+ .body-main-block__arrows {
+  bottom: 30px;
+  right: 10px;
+ }
 }
 
 @media (max-width: 991.98px) {
